@@ -4,4 +4,4 @@ Tarefas:
 3 - alugar terno.
 4 - pagar conta do banco.
 5 - pagar internet.
-6pagar talao de agua.
+6 - pagar talao de agua.
