@@ -1,0 +1,7 @@
+lista de compras
+ 1 arroz
+2 feijao
+3 cafe
+4 oleo
+5 açucar
+6 leite
